@@ -1,0 +1,49 @@
+imitan el pensamiento humano al seguir reglas especificas
+pioneros:
+-dendral
+-mycin
+-puff
+-cassnet
+programa que emula  a un especialista enfocado a un area en especifico sin necesidad de ayuda
+base de conocimiento-> maquina de inf -> interfaz de usuario 
+usario-> interfaz
+caracteristicas:
+-adaptabilidad
+-eficiencia
+-inferencia
+-un SE no debe demorar mas de 3 horas
+-casos practicos
+-el conocimiento del experto no esta distribuido en libros de texto
+-para resolver incomplitud
+
+componentes:
+-modulo de explicacion
+-base de conocimientos
+-separacion de conocimiento
+-mecanismo de inferencia
+-interfaz de usuario
+-componentes adquisicion
+sistemas expertos:
+
+tipos:
+-RBO 
+-CBR
+-Basados en redes de bayes
+
+ejemplos 
+-diagnostico medico
+-soporte tecnico
+-diseño asistido por computadora
+-sistemas financieros
+-controln de procesos industriales
+-planificacion logistica
+-asistentes virtuales
+-sistemas de recomendacion
+-prediccion de clima
+-sistema de recomendacion de alimentos
+-sistema de traduccion automatica
+
+reglas de inferencia:
+derivar conclusiones o inferencias validas, propuestas de donde se determinan si es verdadero o falso
+
+sistema experto basado en reglas
